@@ -8,7 +8,7 @@ bidmachine.io, 226788, DIRECT
 google.com, pub-8207621313430596, DIRECT, f08c47fec0942fa0
 #Meta Facebook
 #Replace the Business_ID below with your Meta Business ID
-facebook.com,Business_ID,DIRECT,c3e20eee3f780d68 
+facebook.com, 783199110217403, DIRECT, c3e20eee3f780d68
 
 #Resellers
 152media.info,152M10,RESELLER
